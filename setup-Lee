@@ -1,0 +1,54 @@
+ 15 
+ 14 Step one - copy system lynx.cfg:
+ 13  
+ 12 cp /etc/lynx.cfg ~/.lynx.cfg 
+ 11  
+ 10 Step two - modify your ~/.lynx.cfg to your heart's content.
+  9  
+  8 Step three - launch lynx with your custom cfg:
+  7  
+  6 lynx -cfg=~/.lynx.cfg <url>
+  5  
+  4 Or easier add an alias to your .bashrc
+  3  
+  2 $ nvim .bashrc
+  1 alias ?="lynx -cfg=~/.lynx.cfg"  
+  0  
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+LynxBrowser/Setup                                               16,0-1         All
+16 lines yanked                                                           
+
+
