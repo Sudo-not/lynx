@@ -1,4 +1,6 @@
- 15 
+rwxrob's setup is better but this setup I understand and can be improved.
+
+
  14 Step one - copy system lynx.cfg:
  13  
  12 cp /etc/lynx.cfg ~/.lynx.cfg 
@@ -13,42 +15,7 @@
   3  
   2 $ nvim .bashrc
   1 alias ?="lynx -cfg=~/.lynx.cfg"  
-  0  
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-LynxBrowser/Setup                                               16,0-1         All
-16 lines yanked                                                           
+  
+                                                           
 
 
